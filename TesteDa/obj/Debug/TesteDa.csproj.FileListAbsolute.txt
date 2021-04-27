@@ -1,0 +1,7 @@
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\bin\Debug\TesteDa.exe.config
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\bin\Debug\TesteDa.exe
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\bin\Debug\TesteDa.pdb
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\obj\Debug\TesteDa.csprojAssemblyReference.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\obj\Debug\TesteDa.csproj.CoreCompileInputs.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\obj\Debug\TesteDa.exe
+C:\Users\alexandrehpc\Desktop\TesteDa\TesteDa\obj\Debug\TesteDa.pdb

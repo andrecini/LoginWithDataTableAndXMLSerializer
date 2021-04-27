@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DataTable>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="usuarios" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="usuarios">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:int" minOccurs="0" />
+                <xs:element name="user" type="xs:string" minOccurs="0" />
+                <xs:element name="password" type="xs:string" minOccurs="0" />
+                <xs:element name="coins" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <DocumentElement>
+      <usuarios diffgr:id="usuarios1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <id>1</id>
+        <user>andrecini</user>
+        <password>FA585D89C851DD338A70DCF535AA2A92FEE7836DD6AFF1226583E88E0996293F16BC009C652826E0FC5C706695A03CDDCE372F139EFF4D13959DA6F1F5D3EABE</password>
+      </usuarios>
+      <usuarios diffgr:id="usuarios2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+        <id>2</id>
+        <user>andrecini2</user>
+        <password>FA585D89C851DD338A70DCF535AA2A92FEE7836DD6AFF1226583E88E0996293F16BC009C652826E0FC5C706695A03CDDCE372F139EFF4D13959DA6F1F5D3EABE</password>
+      </usuarios>
+    </DocumentElement>
+  </diffgr:diffgram>
+</DataTable>

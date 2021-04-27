@@ -1,0 +1,6 @@
+C:\Users\alexandrehpc\Desktop\TesteDa\UtilClasses\bin\Debug\UtilClasses.dll
+C:\Users\alexandrehpc\Desktop\TesteDa\UtilClasses\bin\Debug\UtilClasses.pdb
+C:\Users\alexandrehpc\Desktop\TesteDa\UtilClasses\obj\Debug\UtilClasses.csprojAssemblyReference.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\UtilClasses\obj\Debug\UtilClasses.csproj.CoreCompileInputs.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\UtilClasses\obj\Debug\UtilClasses.dll
+C:\Users\alexandrehpc\Desktop\TesteDa\UtilClasses\obj\Debug\UtilClasses.pdb

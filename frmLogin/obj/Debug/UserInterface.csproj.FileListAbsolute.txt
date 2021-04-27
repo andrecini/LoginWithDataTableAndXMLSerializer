@@ -1,0 +1,14 @@
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\bin\Debug\frmLogin.exe.config
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\bin\Debug\frmLogin.exe
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\bin\Debug\frmLogin.pdb
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\bin\Debug\UtilClasses.dll
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\bin\Debug\UtilClasses.pdb
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\frmLogin.frmLogin.resources
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\frmLogin.frmRegister.resources
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\UserInterface.csproj.GenerateResource.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\UserInterface.csproj.CopyComplete
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\frmLogin.exe
+C:\Users\alexandrehpc\Desktop\TesteDa\frmLogin\obj\Debug\frmLogin.pdb
